@@ -1,0 +1,5 @@
+requests==2.26.0
+click==8.0.3
+translate-toolkit==3.5.1
+git+https://oauth:${GITLAB_OAUTH_TOKEN}@storfa.techiaith.cymru/cyfieithu/techiaith-utils.git
+dask[complete]==2021.11.2
